@@ -1,0 +1,10 @@
+/*/__pycache__
+/sat_quiz/database
+/sat_quiz/tex_output
+*.aux
+*.log
+*.pdf
+*.gz
+*.tex
+*.txt
+!template.txt
